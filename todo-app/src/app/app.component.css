@@ -1,0 +1,21 @@
+.header {
+  background-color: aqua;
+  text-align: center;
+}
+h1 {
+  color: blue;
+}
+.input-todo {
+  width: 250px;
+  height: 30px;
+  font-size: 17px;
+  border-radius: 10px;
+  padding-left: 7px;
+}
+button {
+  margin: 10px;
+  padding: 6px 15px;
+  background-color: black;
+  color: white;
+  border-radius: 30px;
+}
